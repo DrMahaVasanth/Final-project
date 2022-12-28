@@ -1,0 +1,9 @@
+Food_ID,Name,Quantity,Price(INR),Discount(%),Stock
+1,Idli,2 Nos,20.0,0.11,50
+2,Chappathi,2 Nos,35.0,0.05,50
+3,Poori,2 Nos,55.0,0.2,50
+4,Chola Poori,1,52.0,0.12,25
+5,Meals,1 No,110.0,0.2,70
+6,Mini meals,1 No,55.0,0.23,50
+7,Curd rice,1 cup,28.0,0.1,25
+ , , , , , 
